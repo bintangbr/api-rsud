@@ -3,7 +3,7 @@ date_default_timezone_set('Asia/Jakarta');
 
 /* ================== KONFIG ================== */
 $config = [
-    'source_api' => 'http://112.78.170.196:212/myhostrest/api/bedinfo', //kalau ipnya dari rsud ganti, tinggal sesuaikan aja
+    'source_api' => 'http://localhost:212/myhostrest/api/bedinfo', //kalau ipnya dari rsud ganti, tinggal sesuaikan aja
     'source_headers' => [
         'id: i3c8s9',
         'key: 3fe837'
